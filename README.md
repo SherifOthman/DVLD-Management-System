@@ -24,6 +24,9 @@ It ensures that all processes are efficiently managed and that applicants meet t
 
 ---
 
+### 📝 Note  
+This project is part of the **19 - Full Real Project by Programming Advices (Mohamed AbouHadhood)**.
+
 ## 📸 Screenshots
 
 ![Login](images/1.png)
